@@ -20,8 +20,8 @@ As a Data Science Enthusiast (DSE), I enjoy using my obsessive attention to deta
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary write articles on [medium](https://medium.com/@irvansikajudin);
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: irvansika@gmail.com;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume/CV](https://drive.google.com/file/d/1RY7RRKgbh4-fZfK_m-spD7e0uC-xkdfD/view?usp=sharing);
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Portfolio](https://drive.google.com/file/d/1a54IzSMeGQCl9dVGZc-VLIvLc4a-Yw2C/view?usp=sharing).
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume/CV, ](https://drive.google.com/file/d/1RY7RRKgbh4-fZfK_m-spD7e0uC-xkdfD/view?usp=sharing)[Portfolio](https://drive.google.com/file/d/1a54IzSMeGQCl9dVGZc-VLIvLc4a-Yw2C/view?usp=sharing.
+
 
 </br>
 
@@ -39,7 +39,7 @@ No activity tracked
 
 <p>
   <img height="150" width="300" src="https://github-readme-stats.vercel.app/api?username=irvansikajudin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="150"  width="340"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=irvansikajudin&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="150"  width="360"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=irvansikajudin&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 
