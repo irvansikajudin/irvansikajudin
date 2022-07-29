@@ -20,10 +20,7 @@ As a Data Science Enthusiast (DSE), I enjoy using my obsessive attention to deta
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary write articles on [medium](https://medium.com/@irvansikajudin);
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: irvansika@gmail.com;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume/CV, ](https://drive.google.com/file/d/1RY7RRKgbh4-fZfK_m-spD7e0uC-xkdfD/view?usp=sharing)[Portfolio](https://drive.google.com/file/d/1a54IzSMeGQCl9dVGZc-VLIvLc4a-Yw2C/view?usp=sharing.
-
-
-</br>
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume/CV, ](https://drive.google.com/file/d/1RY7RRKgbh4-fZfK_m-spD7e0uC-xkdfD/view?usp=sharing)[Portfolio](https://drive.google.com/file/d/1a54IzSMeGQCl9dVGZc-VLIvLc4a-Yw2C/view?usp=sharing).
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
