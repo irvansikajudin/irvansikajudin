@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Irvan Sikajudin
 
 <!--
 **irvansikajudin/irvansikajudin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Glad to see you here !
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+🌱 I’m currently looking for new job as Data Scientist, Data Analyst.
