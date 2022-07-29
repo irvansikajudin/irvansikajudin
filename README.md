@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Glad to see you here !
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-🌱 I’m currently looking for new job as Data Scientist, Data Analyst.
+
+🌱 I’m currently looking for new job as Data Scientist, Data Analyst.</br></br>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
