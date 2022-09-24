@@ -14,7 +14,7 @@ As a Data Science Enthusiast (DSE), I enjoy using my obsessive attention to deta
   
 
 **Talking about Personal Stuffs:**
-- [My data science portfolio apps](https://apps-ds.herokuapp.com)
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />[My data science portfolio apps](https://apps-ds.herokuapp.com)
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m alumus of data science bootcamp on [dibimbing.id](https://dibimbing.id);
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
